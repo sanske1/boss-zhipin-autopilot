@@ -1,0 +1,14 @@
+# 你自己的数据，不要提交（锚定仓库根目录，别误伤 templates/ 里的同名模板）
+/投递记录.md
+/简历.md
+/投递标准.md
+
+# 运行时状态 / 中间产物
+tools/.last_company
+ui.xml
+ui.txt
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
